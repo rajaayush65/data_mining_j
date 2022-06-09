@@ -1,1 +1,3 @@
-# data_mining_j
+Run > pip install -r requirements.txt
+
+Run all ipynb files
